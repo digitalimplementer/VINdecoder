@@ -1,6 +1,6 @@
 # App for decode VIN number
 
-[DEMO LINK](https://digitalimplementer.github.io/vin-decoder/)
+[DEMO LINK](https://digitalimplementer.github.io/VINdecoder/)
 
 The application is designed to decipher the VIN code and obtain additional information on the variables
 
